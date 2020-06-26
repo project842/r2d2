@@ -33,7 +33,7 @@ in2 = 23
 en = 25
 
 #location of the WAV files
-sounds="/home/pi/Chatter/*.wav"
+sounds="/home/pi/r2d2/R2-D2-sounds/Chatter/*.wav"
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(in1,GPIO.OUT)
